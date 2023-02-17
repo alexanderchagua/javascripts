@@ -1,24 +1,37 @@
-#title{text-align: center;
+body{background-color: aqua;
+}
 
-    
+
+#title{text-align: center;
+  background-color: burlywood;
+
+
 }
 
 .label{text-align: center;
-      position:relative;
-       bottom: -150px;
-    
+  position:relative;
+   bottom: -150px;
+
 }
 
 .button{text-align: center;
-        position:relative;
-       bottom: -170px;}
+    position:relative;
+   bottom: -170px;}
 
 .answer{text-align: center;
-        position:relative;
-       bottom: -190px;}
+    position:relative;
+   bottom: -190px;}
 
 ol li{position:relative;
-      left:40%;
-      bottom: 70px;
-    
+  left:35%;
+  bottom: 120px;
+
 }
+
+#hope{position:absolute;
+     bottom:-150px;
+     left:380px;}
+p{border: 5px solid red;
+width:50%;
+position:relative;
+left:25%;}
